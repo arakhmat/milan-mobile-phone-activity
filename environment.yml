@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
+  - pip
   - numpy
   - pandas
   - matplotlib
@@ -10,9 +11,9 @@ dependencies:
   - geojson
   - progressbar2
   - bokeh
-  # - pycountry
   - phonenumbers
   - selenium
   - phantomjs
   - pillow
   - scikit-learn
+
