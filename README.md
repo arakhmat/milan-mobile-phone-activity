@@ -1,5 +1,5 @@
 # milan_mobile_phone_activity
-Analysis of the Cell Phone Usage in Milan
+Analysis of the Cell Phone Usage in Milan.
 
 ### Downloading and Installing
 ```
@@ -8,8 +8,8 @@ cd milan_mobile_phone_activity
 ```
 
 ### Getting Data
-1. Download all of the data files from the Kaggle data set [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity/data)
-2. Unzip the files into the `data/` folder
+1. Download all of the data files from the Kaggle data set [Mobile phone activity in a city](https://www.kaggle.com/marcodena/mobile-phone-activity/data).
+2. Unzip the files into the `data/` folder.
 
 ### Preparing the environment
 ```
@@ -18,6 +18,6 @@ source activate milan
 ```
 
 ### Running
-1. Start Jupyter Notebook
-2. Open `analysis.ipynb`
-3. Run the notebook
+1. Start Jupyter Notebook.
+2. Open `analysis.ipynb`.
+3. Run the notebook.
