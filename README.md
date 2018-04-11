@@ -1,5 +1,5 @@
 # milan_mobile_phone_activity
-Analysis of the Cell Phone Usage in Milan.
+Analysis of the Cellular Activity in Milan.
 
 ### Downloading and Installing
 ```
