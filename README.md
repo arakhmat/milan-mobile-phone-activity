@@ -5,8 +5,6 @@ Analysis of the Cell Phone Usage in Milan
 ```
 git clone https://github.com/arakhmat/milan_mobile_phone_activity
 cd milan_mobile_phone_activity
-conda env create -f environment.yml
-
 ```
 
 ### Getting Data
