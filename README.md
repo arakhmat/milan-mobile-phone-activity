@@ -1,4 +1,4 @@
-# milan_mobile_phone_activity
+# milan-mobile-phone-activity
 Analysis of the Cellular Activity in Milan.
 
 ### Cloning Repository
